@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Md Junayed Mollick 👋
+# 👋 Hi, I'm Md Junayed Mollick 
 
 <h3 align="center">
 Software Engineering Student • Frontend Developer<br />
