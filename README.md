@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=React+%7C+JavaScript+%7C+Tailwind+CSS;Building+AI+Tools+%26+Modern+Web+Apps;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Md-Junaye-Mollick&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=junayedmollick&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -53,17 +53,17 @@
 
 <div align="center">
 
-<a href="https://github.com/Md-Junaye-Mollick/cryptora">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Junaye-Mollick&repo=cryptora&theme=tokyonight&hide_border=true" alt="Cryptora" />
+<a href="https://github.com/junayedmollick/cryptora">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junayedmollick&repo=cryptora&theme=tokyonight&hide_border=true" alt="Cryptora" />
 </a>
-<a href="https://github.com/Md-Junaye-Mollick/sc-lite-exchange-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Junaye-Mollick&repo=sc-lite-exchange-ui&theme=tokyonight&hide_border=true" alt="SC Lite Exchange UI" />
+<a href="https://github.com/junayedmollick/sc-lite-exchange-ui">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junayedmollick&repo=sc-lite-exchange-ui&theme=tokyonight&hide_border=true" alt="SC Lite Exchange UI" />
 </a>
-<a href="https://github.com/Md-Junaye-Mollick/bcswap-landing-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Junaye-Mollick&repo=bcswap-landing-web&theme=tokyonight&hide_border=true" alt="BCSwap Landing Web" />
+<a href="https://github.com/junayedmollick/bcswap-landing-web">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junayedmollick&repo=bcswap-landing-web&theme=tokyonight&hide_border=true" alt="BCSwap Landing Web" />
 </a>
-<a href="https://github.com/Md-Junaye-Mollick/Al-Kabeer-h-Mart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Junaye-Mollick&repo=Al-Kabeer-h-Mart&theme=tokyonight&hide_border=true" alt="Al Kabeer H Mart" />
+<a href="https://github.com/junayedmollick/Al-Kabeer-h-Mart">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junayedmollick&repo=Al-Kabeer-h-Mart&theme=tokyonight&hide_border=true" alt="Al Kabeer H Mart" />
 </a>
 
 </div>
@@ -74,12 +74,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Md-Junaye-Mollick&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Junaye-Mollick&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=junayedmollick&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayedmollick&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Md-Junaye-Mollick&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=junayedmollick&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
