@@ -2,7 +2,10 @@
 
 # Hi, I'm Md Junayed Mollick 👋
 
-### Software Engineering Student • Frontend Developer • Building AI tools & modern web apps
+<h3 align="center">
+Software Engineering Student • Frontend Developer<br />
+Building AI tools & modern web apps
+</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=React+%7C+JavaScript+%7C+Tailwind+CSS;Building+AI+Tools+%26+Modern+Web+Apps;Always+Learning+Something+New)](https://git.io/typing-svg)
 
@@ -74,12 +77,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=junayedmollick&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junayedmollick&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junayedmollick&theme=tokyonight" alt="GitHub profile details" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=junayedmollick&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=junayedmollick&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junayedmollick&theme=tokyonight" alt="Repositories per language" />
 
 </div>
 
