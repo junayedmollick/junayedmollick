@@ -92,13 +92,13 @@ Building AI tools & modern web apps
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/md-junayed-mollick/">
+<a href="https://www.linkedin.com/in/md-junayed-mollick-456aa7316/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/y_m_k.02/">
+<a href="https://www.instagram.com/md_junayed_mollick/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="mailto:mdjunayedhossainmollick@gmail.com">
+<a href="mailto:junayedmollick536@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
